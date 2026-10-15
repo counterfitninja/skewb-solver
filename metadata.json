@@ -1,0 +1,6 @@
+{
+  "name": "Skewb Ultimate Solver 3D",
+  "description": "Interactive 3D visualizer, scrambler, and step-by-step solver for Meffert's Skewb Ultimate dodecahedron twisty puzzle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
